@@ -1,10 +1,10 @@
 # 自我介绍
 
 - 👋 Hi, 我是 @Doushabao233
-- 👀 我对 Python、Minecraft、B站 很感兴趣
-- 🌱 我现在正在学习 C++、Python
-- 🇨🇳 生活在🌏上人口最多的国家：🇨🇳 中国
-- 💞️ 我希望能在 GitHub 上合作
+- 👀 活跃于 Minecraft、B站
+- 🌱 C++ or Python
+- 🇨🇳 在中国
+- 💞️ 希望能在 GitHub 上合作
 - 📫 如何联系我：
   - 可以邮箱 3548173159@qq.com
   - 可以QQ 3548173159
